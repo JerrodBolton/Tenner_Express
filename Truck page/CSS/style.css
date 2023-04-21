@@ -1,0 +1,22 @@
+*, *::after, *::before{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bg-image{
+    height: 100vh;
+    width: 100%;
+    background: url("../img/Image_for_site.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+
+.container{
+   
+   padding-top: 100px;
+ background-color: gray;
+  
+}
